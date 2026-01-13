@@ -79,10 +79,4 @@ python sc_dat_transformer_full_plots.py
 ---
 
 ## Citation
-SC-DATransformer: Interpretable Dual-Attention Modeling for Sociocultural Impact Analysis of Global Sporting Events
-
----
-
-## Contact
-VisionLangAI Research Group  
-https://github.com/VisionLangAI
+Deep Learning for Sports Events Analysis: Explainable Dual-Attention Transformer for Sociocultural Impact Prediction
